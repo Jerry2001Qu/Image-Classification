@@ -1,5 +1,5 @@
 # Image-Classification
-An Image Classification Algorithm built with data from the CIFAR-10 dataset.
+An Image Classification Algorithm built with data from the CIFAR-10 dataset in Octave.
 
 This program runs a feedforward neural network that received a 55% accuracy rate on a test dataset seperate from the training dataset. The neural network has 3 layers, the first having 1024 nodes as all input images are 32x32, the second having 81 nodes, and the last having 10 nodes corresponding to the 10 different classes.
 
